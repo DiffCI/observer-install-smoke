@@ -1,1 +1,1 @@
-export const alpha = () => 40 + 2;
+export const alpha = () => 42;
