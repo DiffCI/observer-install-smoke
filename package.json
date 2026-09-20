@@ -1,0 +1,6 @@
+{
+  "name": "diffci-observer-install-smoke",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node --test" }
+}
