@@ -21,7 +21,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - uses: DiffCI/DiffCI.com@dee4f7b938a7720d077c1124ef2ea050aa2625d6
+      - uses: DiffCI/DiffCI.com@db73353e680c3713a8426817e13b045a1f2dcb15 # v0.3.3
         with:
           base-sha: HEAD^
           head-sha: HEAD
